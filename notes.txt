@@ -2,3 +2,6 @@
 Notes on using BoredEngineers UE project. 
 
 Need to create a new remote repository to push to. Need to first create a bare one on the server side, and then I can push everything else after that. 
+
+git remote set-url origin git@github.com:User/UserRepo.git
+Needed to change url of origin
